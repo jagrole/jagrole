@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jagrole
-- 📖 Masters Student at AAU, studying Mathematical Engineering. 
+- 📖 Masters Student at AAU, studying Computational Mathematics. 
 - 💻 Specializing in ML and Modelling.
 - 🎥👽 Sci-fi and movie nerd.
 
